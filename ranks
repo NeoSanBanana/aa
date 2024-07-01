@@ -1,0 +1,13 @@
+{
+  "admins": [
+    {
+      "name": "NeoSanBan",
+      "rank": "Owner"
+    },
+    {
+      "name": "AnotherUser",
+      "rank": "Moderator"
+    }
+    
+  ]
+}
